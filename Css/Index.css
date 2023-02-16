@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    font-family: Monospace
+}
+
+main {
+    background-color: white;
+    margin: 0 auto;
+    width: 1900px;
+    height: 1140px;
+    border: 0.1px solid grey;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+}
+
+#Section0{
+    float: right;
+}
+
+#Section1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    /* margin: 40px 1300px 0px 50px; */
+    padding: 55px 55px 55px 55px;
+}
+
+#Section1 p{
+    text-align: start;
+}
+
+strong em{
+    color: green;
+}
+
+#Section2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    float: left;
+    /*margin: 40px 1300px 0px 50px;*/
+    padding: 55px 55px 55px 55px;
+}
+
+#Section3{
+    text-align: center;
+    background-color: black;
+    color: white;
+    float: left;
+    /*margin: 40px 1300px 0px 50px;*/
+    padding: 55px 55px 55px 55px;
+}
+
+#Section4{
+    text-align: center;
+    background-color: black;
+    color: white;
+    float: left;
+    /*margin: 40px 1300px 0px 50px;*/
+    padding: 55px 55px 55px 55px;
+}
+
+.Medios{
+    font-size: 100px;
+    text-align: center;
+}
