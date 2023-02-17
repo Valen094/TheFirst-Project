@@ -1,3 +1,5 @@
+/* NO LO ESTOY OCUPANDO POR AHORA...
+
 * {
     padding: 0;
     margin: 0;
@@ -26,7 +28,7 @@ h1{
     text-align: center;
     background-color: black;
     color: white;
-    /* margin: 40px 1300px 0px 50px; */
+    margin: 40px 1300px 0px 50px; 
     padding: 55px 55px 55px 55px;
 }
 
@@ -43,7 +45,7 @@ strong em{
     background-color: black;
     color: white;
     float: left;
-    /*margin: 40px 1300px 0px 50px;*/
+    margin: 40px 1300px 0px 50px;
     padding: 55px 55px 55px 55px;
 }
 
@@ -52,7 +54,7 @@ strong em{
     background-color: black;
     color: white;
     float: left;
-    /*margin: 40px 1300px 0px 50px;*/
+    margin: 40px 1300px 0px 50px;
     padding: 55px 55px 55px 55px;
 }
 
@@ -61,7 +63,7 @@ strong em{
     background-color: black;
     color: white;
     float: left;
-    /*margin: 40px 1300px 0px 50px;*/
+    margin: 40px 1300px 0px 50px;
     padding: 55px 55px 55px 55px;
 }
 
@@ -69,3 +71,4 @@ strong em{
     font-size: 100px;
     text-align: center;
 }
+*/

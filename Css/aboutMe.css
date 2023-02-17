@@ -1,0 +1,25 @@
+img{
+    border-radius: 50%;
+    float: left;
+}
+
+h1{
+    float: left;
+    margin: 15px;
+    background-color: pink;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+p{
+    width: 700px;
+    text-align: center;
+    float: left;
+}
+
+.Section1{
+    margin: 200px;
+}
